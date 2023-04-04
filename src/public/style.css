@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0;
+    /* color: #333; 
+    margin: 0;
+    padding: 0;
+    */
+    height: 100%;
+}
+
+.my-body {
+    color: #333;
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+
+}
